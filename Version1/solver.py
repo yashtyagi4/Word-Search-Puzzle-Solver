@@ -46,4 +46,3 @@ def Checker(grid, words, rows, cols, i, j, i_change, j_change, moves):
         #Updating i, j based on the direction
         i += i_change
         j += j_change
-

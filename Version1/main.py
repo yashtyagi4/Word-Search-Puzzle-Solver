@@ -1,10 +1,9 @@
 # Yash Tyagi
 # Project: Word Search Solver
-# main.py purpose: 1) Ask user to imput words and the grid
-#                  2) Runs the Solver
+# Version 2 purpose: 1) Ask user to imput words and the grid
+#                    2) Runs the Solver
 
 from solver import Solver
-
 
 def main():
     # Inputting Rows and Cols from User
